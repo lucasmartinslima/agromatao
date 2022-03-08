@@ -1,0 +1,66 @@
+[
+    {
+       "nome":"Subsolador Localizado",
+       "desc":"Equipamento para subsolagem localizada no perfil para planta, fabricado em chassi monobloco possui discos de corte, hastes subsoladoras, rodas para controle de profundidade, dep\u00f3sito solido para aplica\u00e7\u00e3o de corretivo em profundidade com distribui\u00e7\u00e3o por esteira, sistema de abertura autom\u00e1tica de big-bag, dep\u00f3sito l\u00edquido para barreira qu\u00edmica em profundidade, dep\u00f3sito de semente fina para cobertura de solo, turbina de press\u00e3o positiva para aplica\u00e7\u00e3o mais eficiente do corretivo no perfil do solo e rolo destorroador.\r\n\r\n Espa\u00e7amento entre hastes \u2013 2 hastes 1500mm \/ 3 hastes 750mm; Pot\u00eancia requerida \u2013 260cv acima; Engate \u2013 Hidr\u00e1ulico cat. III",
+       "opcionais":"Opcionais: Dep\u00f3sito de corretivo s\u00f3lido; Dep\u00f3sito de corretivo s\u00f3lido com Turbina (Press\u00e3o de ar positiva); Dep\u00f3sito l\u00edquido para barreira qu\u00edmica em profundidade; Dep\u00f3sito de semente fina para cobertura; Para informa\u00e7\u00f5es detalhadas entre em contato",
+       "img":"2c4f318b59eda38a112dcc00019f1234.png",
+       "imgs":[
+          {
+             "nome":"6c52fb2db5cb5731cf5364d2ee9147f7.png",
+             "0":"6c52fb2db5cb5731cf5364d2ee9147f7.png"
+          },
+          {
+             "nome":"b0db687d24ea9b3e01644fb88a48faab.png",
+             "0":"b0db687d24ea9b3e01644fb88a48faab.png"
+          },
+          {
+             "nome":"2541239b00fe80e869ca754593d38986.png",
+             "0":"2541239b00fe80e869ca754593d38986.png"
+          }
+       ],
+       "videos":[
+          {
+             "nome":"101a7da9ab731f10a807b138598c4ca9.mp4",
+             "0":"101a7da9ab731f10a807b138598c4ca9.mp4"
+          }
+       ]
+    },
+    {
+       "nome":"Canterizador de replante",
+       "desc":"Equipamento para preparo de solo localizado em pequenas falhas no plantio, deixando o solo em perfeitas condi\u00e7\u00f5es para o replantio. \r\n N\u00famero de linhas \u2013 1 Pot\u00eancia requerida \u2013 80cv acima. Engate \u2013 Hidr\u00e1ulico cat. II",
+       "opcionais":"Opcionais: Dep\u00f3sito de corretivo s\u00f3lido ",
+       "img":"sem foto",
+       "imgs":[
+          
+       ],
+       "videos":[
+          
+       ]
+    },
+    {
+       "nome":"Canterizador de replante",
+       "desc":"Equipamento para preparo de solo localizado em pequenas falhas no plantio, deixando o solo em perfeitas condi\u00e7\u00f5es para o replantio. \r\n N\u00famero de linhas \u2013 1 Pot\u00eancia requerida \u2013 80cv acima. Engate \u2013 Hidr\u00e1ulico cat. II",
+       "opcionais":"Opcionais: Dep\u00f3sito de corretivo s\u00f3lido ",
+       "img":"8ca9b3b242982522d16fb8b87f993f09.png",
+       "imgs":[
+          {
+             "nome":"e6169868762e2bf6ccb693982f3fd578.png",
+             "0":"e6169868762e2bf6ccb693982f3fd578.png"
+          },
+          {
+             "nome":"b37e83997a7caa129d266b1d6150dd9d.jpg",
+             "0":"b37e83997a7caa129d266b1d6150dd9d.jpg"
+          },
+          {
+             "nome":"f3d39d296dc0e234e9bab83116f58f96.png",
+             "0":"f3d39d296dc0e234e9bab83116f58f96.png"
+          }
+       ],
+       "videos":[
+          {
+             "nome":"02c3ec19249521d68fcf4c7e3819ccf2.mp4",
+             "0":"02c3ec19249521d68fcf4c7e3819ccf2.mp4"
+          }
+       ]
+    }
+ ]

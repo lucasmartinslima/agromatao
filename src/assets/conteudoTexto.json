@@ -1,0 +1,53 @@
+{
+
+
+    "produto":{
+        "cabecalho":{
+            "pt": "Nossos Produtos",
+            "en": "Our Products",
+            "es": "Nuestros Productos"
+        }
+    },
+
+    "contato":{
+        "telefone":{
+            "cabecalho": {
+                "pt": "NOSSO TELEFONE",
+                "en": "OUR PHONE",
+                "es": "NUESTRO TELÉFONO"
+            },
+            "paragrafo": {
+                "pt": "Entre em contato conosco +55 16 3382-7192 | +55 16 99781-7818",
+                "en": "Call to us +55 16 3382-7192 | +55 16 99781-7818",
+                "es": "Hermanito to us +55 16 3382-7192 | +55 16 99781-7818"
+            }
+        },
+        "email":{
+            "cabecalho": {
+                "pt": "CONTATO ONLINE",
+                "en": "ONLINE CONTACT",
+                "es": "CONTACTO EN LÍNEA"
+            },
+            "paragrafo": {
+                "pt": "Entre em contato conosco vendas01@agromatao.com.br",
+                "en": "Send Us an Email vendas01@agromatao.com.br",
+                "es": "Envíenos un correo electrónico vendas01@agromatao.com.br"
+                }
+        }
+    },
+
+    "about":{
+        "cabecalho":{
+            "pt": "Sobre a empresa",
+            "en": "About the company",
+            "es": "Sobre la empresa"
+        },
+        "texto":{
+            "pt": "Fundada por profissionais com seis décadas de experiência no ramo agrícola, a empresa começou desenvolvendo soluções em projetos de máquinas e implementos agrícolas se destacando posteriormente no segmento de colheita mecanizada de cana-de-açúcar. Hoje a empresa oferece soluções avançadas em equipamentos de preparo de solo localizado, eliminadores de soqueiras dentre outros, para plantio de cana-de-açucar e diversas culturas. Equipamentos patenteados que otimizam operações com ênfase nos benefícios agronômicos, proporcionando sempre baixo custo operacional aliado ao aumento de produtividade. Assim ao adquirir nossos produtos você terá alto rendimento, tecnologia através de conceitos inovadores de engenharia e de produção.",
+            "en": "Founded by professionals with six decades of experience in the agricultural field, the company began by developing solutions in agricultural machinery and implements projects, later standing out in the segment of mechanized sugarcane harvesting. Today the company offers advanced solutions in preparation equipment of localized soil, ratoon eliminators, among others, for planting sugarcane and various crops. Patented equipment that optimizes operations with an emphasis on agronomic benefits, always providing low operating costs combined with increased productivity. will have high yield, technology through innovative engineering and production concepts.",
+            "es": "Fundada por profesionales con seis décadas de experiencia en el campo agrícola, la empresa comenzó desarrollando soluciones en proyectos de máquinas e implementos agrícolas, destacándose luego en el segmento de la cosecha mecanizada de caña de azúcar. Hoy la empresa ofrece soluciones avanzadas en equipos de preparación de suelo localizado, eliminadores de retoños, entre otros, para la siembra de caña de azúcar y cultivos varios. Equipo patentado que optimiza las operaciones con énfasis en los beneficios agronómicos, proporcionando siempre bajos costos operativos combinados con una mayor productividad. contará con tecnología de alto rendimiento, a través de conceptos innovadores de ingeniería y producción."
+        }
+    }
+
+
+}
